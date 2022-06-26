@@ -24,11 +24,11 @@ W projekcie można zobaczyć wizualizaje następujących algorytmów:
   Uproszczona wersja algorytmu wykorzystywanego w gospodarce łowieckiej w lasach do szacowania wpływu odstrzału na populację.
   
 # Użycie
-[Część górna]
+# [Część górna]
 1. Wprowadź liczbę elementów w polu tekstowym
 2. Kliknij generuj dane
 3. Wybierz z listy, który algorytm ma zostać wykorzystany (uwaga najniżej ustawione algorytmy z powodu skrajnie niskiej wydajności mogą wykonywać operacje nawet przez wiele godzin!)
-[Część dolna]
+# [Część dolna]
 1. Wybierz rodzaj selekcji (co który osobnik ma zostać odstrzelony)
 2. Wybierz rozmiar powierchni (max osobników)
 3. Podaj liczbę początkową osobników
