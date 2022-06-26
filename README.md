@@ -1,5 +1,5 @@
 # Algorithm Show
-Projekt wizualizujący parę algorytmów
+Projekt wizualizujący 6 algorytmów sortujących oraz jeden nietypowy
 
 # Setup
 1. Pobrać repozytorium poprzez Visual Studio->Git->Klonuj repozytorium->https://github.com/cholewakrzysztof/algorytm-show
