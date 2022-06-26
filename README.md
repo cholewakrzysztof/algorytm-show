@@ -8,19 +8,19 @@ Projekt wizualizujący 6 algorytmów sortujących oraz jeden nietypowy
 # Opis
 W projekcie można zobaczyć wizualizaje następujących algorytmów:
 
-1. Quick Sort (Sortowanie szybkie)
+1. Quick Sort (Sortowanie szybkie).
   Jedno z najszybszych sortowań o złożoności N log N
-2. Selection Sort (Sortowanie przez wybór)
+2. Selection Sort (Sortowanie przez wybór).
   Sortowanie o złożoności N do kwadratu, lecz w niektórych przypadkach szybsze od bąbelkowego
-3. Bubble Sort (Sortowanie bąbelkowe)
+3. Bubble Sort (Sortowanie bąbelkowe).
   Sortowanie o złożoności N do kwadratu
-4. Głupie Sort 
+4. Głupie Sort.
   Nieefektywne sortowanie sprawdzające parę, jeżeli są nieposortowane zamienia miejscami i szuka od początku
-5. Zwariowane Sort
+5. Zwariowane Sort.
   Skrajnie nieefektywny algorytm, który losowo ustawia dane a następnie sprawdza, czy są posortowane
-6. Stalin Sort
+6. Stalin Sort.
   Żartobliwy algorytm sortujacy o złożoności N
-7. Algorytm szacowania rozwoju populacji
+7. Algorytm szacowania rozwoju populacji.
   Uproszczona wersja algorytmu wykorzystywanego w gospodarce łowieckiej w lasach do szacowania wpływu odstrzału na populację.
   
 # Użycie
